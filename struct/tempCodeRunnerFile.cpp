@@ -1,0 +1,1 @@
+akDataKaryawan(joko);
